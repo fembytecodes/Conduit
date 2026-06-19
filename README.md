@@ -37,7 +37,7 @@ repositories {
 }
 
 dependencies {
-    implementation("dev.fembyte:conduit:0.1.0-SNAPSHOT")
+    implementation("dev.fembyte:conduit:1.0.1")
 }
 ```
 
