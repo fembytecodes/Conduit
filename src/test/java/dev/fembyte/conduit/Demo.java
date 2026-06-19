@@ -1,6 +1,6 @@
-package test;
+package dev.fembyte.conduit;
 
-import com.dractical.conduit.*;
+import dev.fembyte.conduit.*;
 
 public class Demo {
 

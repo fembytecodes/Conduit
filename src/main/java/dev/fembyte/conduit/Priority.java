@@ -1,4 +1,4 @@
-package com.dractical.conduit;
+package dev.fembyte.conduit;
 
 public enum Priority {
     HIGHEST, HIGH, NORMAL, LOW, LOWEST;

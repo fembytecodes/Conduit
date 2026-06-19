@@ -1,8 +1,8 @@
-package test;
+package dev.fembyte.conduit;
 
-import com.dractical.conduit.Event;
-import com.dractical.conduit.EventBus;
-import com.dractical.conduit.Subscribe;
+import dev.fembyte.conduit.Event;
+import dev.fembyte.conduit.EventBus;
+import dev.fembyte.conduit.Subscribe;
 import org.junit.jupiter.api.Test;
 
 import java.util.concurrent.ExecutorService;

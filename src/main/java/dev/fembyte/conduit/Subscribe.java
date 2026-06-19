@@ -1,4 +1,4 @@
-package com.dractical.conduit;
+package dev.fembyte.conduit;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

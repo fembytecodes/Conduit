@@ -9,13 +9,13 @@ A tiny, fast, annotation-driven event bus for Java.
 - Sync by default, optional async with an `Executor`
 - Zero external dependencies
 
-> Package: `com.dractical.conduit`
+> Package: `dev.fembyte.conduit`
 
 ---
 
 ## Quickstart
 
-For a quick demo, check `src/test/java/test/Demo.java`
+For a quick demo, check `src/test/java/dev/fembyte/conduit/Demo.java`
 
 ---
 
@@ -31,8 +31,15 @@ For a quick demo, check `src/test/java/test/Demo.java`
 
 ## Installation
 
-Conduit is a small library. Drop the source under `src/main/java/com/dractical/conduit/` or publish it to your internal
-repo.
+```kotlin
+repositories {
+    maven("https://maven.fembyte.dev/releases")
+}
+
+dependencies {
+    implementation("dev.fembyte:conduit:0.1.0-SNAPSHOT")
+}
+```
 
 ---
 

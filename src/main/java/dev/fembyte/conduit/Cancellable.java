@@ -1,4 +1,4 @@
-package com.dractical.conduit;
+package dev.fembyte.conduit;
 
 public interface Cancellable extends Event {
     boolean isCancelled();

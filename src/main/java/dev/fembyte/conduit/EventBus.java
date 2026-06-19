@@ -1,4 +1,4 @@
-package com.dractical.conduit;
+package dev.fembyte.conduit;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodHandles;
